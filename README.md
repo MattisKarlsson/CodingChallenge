@@ -8,7 +8,7 @@ Stumbled upon some issues with the URLValidation and first just general setup wi
 https://blog.logrocket.com/building-a-url-shortener-with-node-js/
 
 StyleEditor:
-JS Native
-HTML ID tags
-OnClick event used
+JS Native,
+HTML ID tags,
+OnClick event used,
 Split everything into different files for better readability
