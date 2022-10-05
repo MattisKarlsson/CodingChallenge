@@ -1,0 +1,20 @@
+#block1 {
+  padding: var(--padding, 50px);
+  background-color: var(--background-color, #8a6d3b);
+  color: var(--text-color, #1b1b1b);
+  font-size: var(--font-size, 20px);
+}
+
+#block2 {
+  padding: var(--padding, 50px);
+  background-color: var(--background-color, #1b6d85);
+  color: var(--text-color, #1b1b1b);
+  font-size: var(--font-size, 20px);
+}
+
+#block3 {
+  padding: var(--padding, 50px);
+  background-color: var(--background-color, #99cb84);
+  color: var(--text-color, #1b1b1b);
+  font-size: var(--font-size, 20px);
+}
